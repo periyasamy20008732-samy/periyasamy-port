@@ -11,7 +11,6 @@ class PortfolioController extends Controller
             'email'    => 'mperiyasamy2001@gmail.com',
             'phone'    => '+91 8925167743',
             'linkedin' => 'www.linkedin.com/in/periyasamy-m-b02157227',
-            'address'  => '3/49a, New Street, Thiruvananthapuram, Kizhanatham (Po), 627353',
             'about'    => 'I\'m Periyasamy, from Tirunelveli. I completed my B.E. in Computer '
                 . 'Science and Engineering at Government College of Engineering, Tirunelveli, '
                 . 'and have three years and ten months of experience in software development: '
