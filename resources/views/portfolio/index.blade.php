@@ -157,7 +157,7 @@
                 <a href="tel:{{ $profile['phone'] }}">{{ $profile['phone'] }}</a>
                 <a href="https://{{ $profile['linkedin'] }}" target="_blank" rel="noopener">{{ $profile['linkedin'] }}</a>
             </div>
-            <p class="foot-note">{{ $profile['address'] }}</p>
+            <p class="foot-note">Tirunelveli,Tamilnadu</p>
         </footer>
 
     </main>
